@@ -83,7 +83,7 @@ section {
 }
 
 .home-container {
-    background: url("/img/home-img.webp");
+    background: url("img/home-img.webp");
     height: 100vh;
     background-position: center;
     background-size: cover;
